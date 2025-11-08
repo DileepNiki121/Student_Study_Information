@@ -1,0 +1,153 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f4f8ff;
+}
+
+.main-heading {
+  background: #673ab7;
+  padding: 15px;
+  color: white;
+  text-align: center;
+}
+
+.nav-right-content {
+  background: #222;
+  padding: 10px;
+  text-align: right;
+}
+
+.more-info-btn {
+  background: #ff9800;
+  border: none;
+  padding: 8px 12px;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.menu-box {
+  display: none;
+  background: #333;
+  padding: 10px;
+}
+
+.menu-box a {
+  display: block;
+  color: white;
+  padding: 8px;
+  text-decoration: none;
+}
+.menu-box a:hover { background: #575757; }
+
+.topic-section {
+  margin: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  background: white;
+}
+
+.section-title {
+  background: #512da8;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.topic-card {
+  background: #ffffff;
+  border: 1px solid #ccc;
+  margin-top: 10px;
+  padding: 12px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.topic-content {
+  display: none;
+  color: #444;
+  padding-top: 5px;
+}
+
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f4f8ff;
+}
+
+.main-heading {
+  background: #673ab7;
+  padding: 15px;
+  color: white;
+  text-align: center;
+}
+
+.nav-right-content {
+  background: #b4a5a5;
+  padding: 10px;
+  text-align: right;
+}
+
+.more-info-btn {
+  background: #ff9800;
+  padding: 8px 14px;
+  border: none;
+  color: white;
+  border-radius: 6px;
+}
+
+.menu-box { display: none; background:#333; padding: 10px; }
+.menu-box a { display:block; color:white; padding:8px; text-decoration:none; }
+.menu-box a:hover { background:#555; }
+
+.topic-section {
+  margin: 20px;
+  padding: 12px;
+  background: white;
+  border-radius: 10px;
+}
+
+.section-title {
+  background: #512da8;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.list-item {
+  background: #ffffff;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.list-item:hover {
+  background: #e9e9ff;
+  transition: 0.3s;
+}
+/* Remove underline + set default text color */
+a {
+  text-decoration: none;
+  color: #222;        /* Dark text */
+  display: block;     /* Ensures whole box is clickable */
+}
+
+/* On hover, change background slightly */
+.list-item:hover {
+  background: #dcd6ff;   /* Light purple hover shade */
+  border-color: #9575cd; /* Match section color */
+  transition: 0.3s;
+}
+
+/* Make the list text bold and clean */
+.list-item strong {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #111;      /* Dark clean color */
+}
+.mobile-menu-items{
+    background-color: rgb(222, 69, 22);
+}
